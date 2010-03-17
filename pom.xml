@@ -3,7 +3,7 @@
   <groupId>no.uis.util</groupId>
   <artifactId>locale-spi</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>locale-spi</name>
   <url>http://source01.uis.no/maven-site/${project.groupId}/${project.artifactId}/${project.version}</url>
   
@@ -27,12 +27,4 @@
 		<url>dav:https://source01.uis.no/maven-site/${project.groupId}/${project.artifactId}/${project.version}</url>
 	</site>
   </distributionManagement>
-
-  
-
-  <scm>
-    <connection>scm:svn:https://source01.uis.no/repos/portal/parent-pom/tags/locale-spi-1.0.0</connection>
-    <developerConnection>scm:svn:https://source01.uis.no/repos/portal/parent-pom/tags/locale-spi-1.0.0</developerConnection>
-    <url>https://source01.uis.no/repos/portal/parent-pom/tags/locale-spi-1.0.0</url>
-  </scm>
 </project>
