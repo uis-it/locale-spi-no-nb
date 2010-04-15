@@ -6,11 +6,12 @@
   <version>1.0.1-SNAPSHOT</version>
   <name>locale-spi</name>
   <url>http://source01.uis.no/maven-site/${project.groupId}/${project.artifactId}/${project.version}</url>
+  <inceptionYear>2010</inceptionYear>
   
   <parent>
   	<groupId>no.uis</groupId>
   	<artifactId>parent-pom</artifactId>
-  	<version>1.1.11</version>
+  	<version>1.1.12</version>
   </parent>
   <dependencies>
     <dependency>
