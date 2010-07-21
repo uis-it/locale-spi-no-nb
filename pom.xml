@@ -7,7 +7,7 @@
 	<name>locale-spi</name>
 	<url>http://source01.uis.no/maven-site/${project.groupId}/${project.artifactId}/${project.version}</url>
 	<inceptionYear>2010</inceptionYear>
-	<description>Put the JAR file in JAVA_HOME/lib/ext folder and it enables the locale nb_NO.</description>
+	<description>Put the JAR file in $JAVA_HOME/lib/ext folder and it enables the locale nb_NO.</description>
 
 	<parent>
 		<groupId>no.uis</groupId>
