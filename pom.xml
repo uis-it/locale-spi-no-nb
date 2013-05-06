@@ -3,7 +3,7 @@
   <groupId>no.uis.util</groupId>
   <artifactId>locale-spi-no-nb</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.4</version>
+  <version>1.0.5-SNAPSHOT</version>
   <name>Locale nb_NO SPI</name>
   <url>http://forge.uis.no/projects/locale-spi-no-nb</url>
   <inceptionYear>2010</inceptionYear>
