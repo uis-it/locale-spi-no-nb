@@ -5,7 +5,7 @@
   <packaging>jar</packaging>
   <version>1.0.5-SNAPSHOT</version>
   <name>Locale nb_NO SPI</name>
-  <url>http://forge.uis.no/projects/locale-spi-no-nb</url>
+  <url>https://github.com/uis-it/locale-spi-no-nb</url>
   <inceptionYear>2010</inceptionYear>
   <description>Put the JAR file in $JAVA_HOME/lib/ext folder and it enables the locale nb_NO.</description>
 
@@ -16,9 +16,9 @@
   </parent>
 
   <scm>
-    <connection>scm:git:git://forge.uis.no/tools/locale-spi-no-nb.git</connection>
-    <developerConnection>scm:git:ssh://git@forge.uis.no/tools/locale-spi-no-nb.git</developerConnection>
-    <url>http://forge.uis.no/projects/locale-spi-no-nb/repository</url>
+    <connection>scm:git:git://github.com/uis-it/locale-spi-no-nb.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/uis-it/locale-spi-no-nb.git</developerConnection>
+    <url>https://github.com/uis-it/locale-spi-no-nb</url>
   </scm>
 
   <build>
@@ -33,4 +33,8 @@
     </plugins>
   </build>
 
+  <issueManagement>
+    <system>Github</system>
+    <url>https://github.com/uis-it/locale-spi-no-nb/issues</url>
+  </issueManagement>
 </project>
